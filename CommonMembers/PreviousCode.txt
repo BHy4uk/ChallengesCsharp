@@ -1,0 +1,42 @@
+List<int> firstList = new List<int>();
+
+            Console.WriteLine("Quantity of the members of the first sequence");
+            int quantity = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Members of the first sequence");
+            string userValue = Console.ReadLine();
+            string[] split = userValue.Split(' ');
+
+            if (split.Length == quantity)
+            {
+
+                firstList = split.Select(x => int.Parse(x)).ToList();
+
+            }
+            else
+            {
+                throw new IndexOutOfRangeException("Sequence of numbers should have quantity as entered previously");
+            }
+
+            List<int> secondList = new List<int>();
+
+            Console.WriteLine("Quantity of the members of the second sequence");
+            int quantity2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Members of the second sequence");
+            string userValue2 = Console.ReadLine();
+            string[] split2 = userValue2.Split(' ');
+
+            if (split2.Length == quantity2)
+            {
+                secondList = split2.Select(z => int.Parse(z)).ToList();
+            }
+            else
+            {
+                throw new IndexOutOfRangeException("Sequence of numbers should have quantity as entered previously");
+            }
+            IEnumerable<int> query = (from lists in firstList.Intersect(secondList)
+                                      select lists).ToArray();
+
+            string output = string.Join(" ", query);
+            Console.Write("{0} {1}", query.Count(), output);

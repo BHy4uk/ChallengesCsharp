@@ -1,0 +1,16 @@
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\PetrolStations.exe
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\PetrolStations.deps.json
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\PetrolStations.runtimeconfig.json
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\PetrolStations.runtimeconfig.dev.json
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\PetrolStations.dll
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\ref\PetrolStations.dll
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\bin\Debug\net5.0\PetrolStations.pdb
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.csprojAssemblyReference.cache
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.AssemblyInfoInputs.cache
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.AssemblyInfo.cs
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.csproj.CoreCompileInputs.cache
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.dll
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\ref\PetrolStations.dll
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.pdb
+C:\Users\bhy4u\source\repos\AMC_Test\PetrolStations\PetrolStations\obj\Debug\net5.0\PetrolStations.genruntimeconfig.cache

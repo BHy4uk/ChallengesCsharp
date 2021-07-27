@@ -1,0 +1,16 @@
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\CommonMembers.exe
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\CommonMembers.deps.json
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\CommonMembers.runtimeconfig.json
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\CommonMembers.runtimeconfig.dev.json
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\CommonMembers.dll
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\ref\CommonMembers.dll
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\bin\Debug\net5.0\CommonMembers.pdb
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.csprojAssemblyReference.cache
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.AssemblyInfoInputs.cache
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.AssemblyInfo.cs
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.csproj.CoreCompileInputs.cache
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.dll
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\ref\CommonMembers.dll
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.pdb
+C:\Users\bhy4u\source\repos\AMC_Test\CommonMembers\CommonMembers\obj\Debug\net5.0\CommonMembers.genruntimeconfig.cache

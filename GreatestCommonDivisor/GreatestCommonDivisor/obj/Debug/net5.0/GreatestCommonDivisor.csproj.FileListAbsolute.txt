@@ -1,0 +1,16 @@
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.exe
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.deps.json
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Users\bhy4u\source\repos\AMC_Test\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.genruntimeconfig.cache
